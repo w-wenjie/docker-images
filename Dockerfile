@@ -1,1 +1,1 @@
-From docker.io/istio/proxyv2:1.1.6
+From gcr.io/kubeflow-images-public/kubernetes-sigs/application
