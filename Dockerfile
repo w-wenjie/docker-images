@@ -1,1 +1,1 @@
-From docker.io/seldonio/seldon-core-operator:1.0.1
+From gcr.io/kfserving/kfserving-controller:latest
