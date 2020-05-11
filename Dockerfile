@@ -1,1 +1,1 @@
-From gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+From gcr.io/google_containers/spartakus-amd64:v1.1.0
