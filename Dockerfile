@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/frontend:0.2.5
+From gcr.io/ml-pipeline/persistenceagent:0.2.5
