@@ -1,1 +1,1 @@
-From docker.io/istio/proxyv2:1.1.6
+From docker.io/istio/kubectl:1.1.6
