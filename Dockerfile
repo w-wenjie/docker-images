@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/kubernetes-sigs/application
+From quay.io/jetstack/cert-manager-cainjector:v0.11.0
