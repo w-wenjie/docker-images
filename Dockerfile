@@ -1,1 +1,1 @@
-From docker.io/istio/kubectl:1.1.6
+From docker.io/istio/galley:1.1.6
