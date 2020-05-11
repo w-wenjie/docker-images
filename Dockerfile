@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/scheduledworkflow:0.2.5
+From gcr.io/ml-pipeline/viewer-crd-controller:0.2.5
