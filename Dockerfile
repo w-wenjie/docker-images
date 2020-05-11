@@ -1,1 +1,1 @@
-From grafana/grafana:6.0.2
+From docker.io/kiali/kiali:v0.16
