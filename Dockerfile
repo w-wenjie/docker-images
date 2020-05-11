@@ -1,1 +1,1 @@
-From docker.io/kubeflowkatib/mxnet-mnist
+From gcr.io/ml-pipeline/api-server
