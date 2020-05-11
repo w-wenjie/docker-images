@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/pytorch-operator:v0.6.0-18-g5e36a57
+From gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:792f6945c7bc73a49a470a5b955c39c8bd174705743abf5fb71aa0f4c04128eb
