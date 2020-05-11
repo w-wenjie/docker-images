@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/visualization-server
+From gcr.io/kubeflow-images-public/profile-controller:v20190619-v0-219-gbd3daa8c-dirty-1ced0e
