@@ -1,1 +1,1 @@
-From metacontroller/metacontroller:v0.3.0
+From argoproj/argoui:v2.3.0
