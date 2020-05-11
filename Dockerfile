@@ -1,1 +1,1 @@
-From docker.io/istio/sidecar_injector:1.1.6
+From docker.io/jaegertracing/all-in-one:1.9
