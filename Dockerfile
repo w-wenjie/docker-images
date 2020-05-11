@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/scheduledworkflow
+From gcr.io/ml-pipeline/visualization-server
