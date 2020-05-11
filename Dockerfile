@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/katib/v1alpha3/katib-ui
+From docker.io/kubeflowkatib/mxnet-mnist
