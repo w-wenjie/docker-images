@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/katib/v1alpha3/katib-controller:v0.8.0
+From gcr.io/kubeflow-images-public/tf_operator:v1.0.0-g92389064
