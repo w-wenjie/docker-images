@@ -1,1 +1,1 @@
-From docker.io/istio/proxyv2:1.1.6
+From docker.io/prom/prometheus:v2.3.1
