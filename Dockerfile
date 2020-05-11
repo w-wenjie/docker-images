@@ -1,1 +1,1 @@
-From docker.io/istio/proxyv2:1.1.6
+From grafana/grafana:6.0.2
