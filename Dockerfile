@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/centraldashboard
+From gcr.io/kubeflow-images-public/ingress-setup:latest
