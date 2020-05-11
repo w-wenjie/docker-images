@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/visualization-server:0.2.5
+From gcr.io/kubeflow-images-public/pytorch-operator:v1.0.0
