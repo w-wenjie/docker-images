@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/profile-controller:v1.0.0-ge50a8531
+From gcr.io/kfserving/kfserving-controller:0.2.2
