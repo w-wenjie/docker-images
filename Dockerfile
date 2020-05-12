@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:8e606671215cc029683e8cd633ec5de9eabeaa6e9a4392ff289883304be1f418
+From gcr.io/kubeflow-images-public/profile-controller:v1.0.0-ge50a8531
