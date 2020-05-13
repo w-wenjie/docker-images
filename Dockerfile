@@ -1,1 +1,1 @@
-From gcr.io/kfserving/storage-initializer:0.2.2
+From gcr.io/kfserving/xgbserver
