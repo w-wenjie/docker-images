@@ -1,1 +1,1 @@
-From mysql:5.6
+From gcr.io/knative-releases/knative.dev/serving/cmd/queue:latest
