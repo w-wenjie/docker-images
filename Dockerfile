@@ -1,1 +1,1 @@
-From gcr.io/kfserving/pytorchserver
+From gcr.io/kfserving/sklearnserver
