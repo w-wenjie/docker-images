@@ -1,1 +1,1 @@
-From tensorflow/tensorflow:1.8.0
+From sidecar.istio.io/interceptionMode
