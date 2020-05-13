@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/queue:latest
+From gcr.io/knative-releases/knative.dev/serving/cmd/activator:latest
