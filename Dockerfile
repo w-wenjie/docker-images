@@ -1,1 +1,1 @@
-From sidecar.istio.io/interceptionMode
+From docker.io/istio/mixer:1.1.6
