@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler:latest
+From gcr.io/knative-releases/knative.dev/serving/cmd/controller:latest
