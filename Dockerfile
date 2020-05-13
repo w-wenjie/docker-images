@@ -1,1 +1,1 @@
-From docker.io/seldonio/engine:1.0.1
+From tensorflow/tensorflow:1.8.0
