@@ -1,1 +1,1 @@
-From gcr.io/kfserving/xgbserver
+From docker.io/seldonio/seldon-core-operator:1.0.1
