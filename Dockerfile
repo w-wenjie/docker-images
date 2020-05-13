@@ -1,1 +1,1 @@
-From docker.io/istio/mixer:1.1.6
+From 360cloud/wayne-frontend:latest
