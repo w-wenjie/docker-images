@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/webhook:latest
+From gcr.io/knative-releases/knative.dev/serving/cmd/queue:latest
