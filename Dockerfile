@@ -1,1 +1,1 @@
-From gcr.io/tfx-oss-public/ml_metadata_store_server:0.15.1
+From gcr.io/ml-pipeline/api-server:0.1.31
