@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/katib/v1alpha3/katib-ui:v0.7.0
+From gcr.io/tfx-oss-public/ml_metadata_store_server:0.15.1
