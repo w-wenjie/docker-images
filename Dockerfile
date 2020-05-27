@@ -1,1 +1,1 @@
-From rapidsai/rapidsai:cuda10.0-runtime-ubuntu18.04
+From gcr.io/kfserving/kfserving-controller:0.2.2
