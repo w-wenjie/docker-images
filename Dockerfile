@@ -1,1 +1,1 @@
-From gcr.io/kfserving/kfserving-controller:0.2.2
+From gcr.io/kfserving/sklearnserver:0.2.2
