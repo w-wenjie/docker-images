@@ -1,1 +1,1 @@
-From gcr.io/kfserving/sklearnserver:0.2.2
+From k8s.gcr.io/kube-cross:v1.12.17
