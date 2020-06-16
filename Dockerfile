@@ -1,1 +1,1 @@
-From gcr.io/application-controller:latest
+From docker.io/kubeflowkatib/mxnet-mnist
