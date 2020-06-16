@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-cross:v1.12.17-1
+From gcr.io/kubeflow-images-public/profile-controller:latest
