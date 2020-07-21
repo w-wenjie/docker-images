@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/argoexec:v2.7.5-license-compliance
+From gcr.io/ml-pipeline/workflow-controller:v2.7.5-license-compliance
