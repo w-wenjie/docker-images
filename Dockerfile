@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/application-crd-controller:1.0-beta-non-cluster-role
+From gcr.io/ml-pipeline/argoexec:v2.7.5-license-compliance
