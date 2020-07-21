@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/metadata-envoy@sha256:b76a8a21ccd8585151e4cb4b2c67f9095876b97952400babb8e5ac615f374047
+From gcr.io/ml-pipeline/metadata-envoy:1.0.0
