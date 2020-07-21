@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/cache-server:dummy
+From gcr.io/ml-pipeline/cache-deployer:0.5.1
