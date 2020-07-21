@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/visualization-server:1.0.0
+From gcr.io/ml-pipeline/metadata-writer:1.0.0
