@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/metadata-envoy:1.0.0
+From gcr.io/ml-pipeline/cache-server:1.0.0
