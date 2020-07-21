@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/metadata-envoy:0.5.1
+From gcr.io/ml-pipeline/metadata-envoy:0.5
