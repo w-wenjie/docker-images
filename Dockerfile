@@ -1,1 +1,1 @@
-From gcr.io/cloud-marketplace/google-cloud-ai-platform/kubeflow-pipelines/metadataenvoy:0.5
+From gcr.io/ml-pipeline/metadata-envoy@sha256:b76a8a21ccd8585151e4cb4b2c67f9095876b97952400babb8e5ac615f374047
