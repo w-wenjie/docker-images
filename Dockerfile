@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-5adee6f-6109-a25c
+From pytorch/pytorch:1.6.0-cuda10.1-cudnn7-runtime
