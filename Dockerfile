@@ -1,1 +1,1 @@
-From pytorch/pytorch:1.6.0-cuda10.1-cudnn7-runtime
+From nvcr.io/nvidia/tritonserver:20.10-py3
